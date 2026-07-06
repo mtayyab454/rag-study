@@ -51,6 +51,14 @@ ANSWER  (grounded, cited response)
 
 The harness is built **first**, in week 1, before any experimentation. Nothing you do afterwards means anything without it.
 
+> **Where the repo starts.** The scaffold ships only the bare baseline: a
+> dense-only pipeline (fixed-size chunking, one local embedding model, top-k
+> retrieval, a plain grounded prompt) that answers every gold question and writes
+> `results.csv` with three columns — `question`, `answer`, `reference`. The
+> retrieval metrics (recall@k / MRR), the LLM-as-judge, the per-metric results
+> table, and the hybrid/re-ranking/prefix knobs described below are **not in the
+> code yet** — building them is the week-by-week work of this project.
+
 ---
 
 ## The pipeline stages, and what to experiment with at each
