@@ -1,0 +1,11 @@
+# Core
+numpy>=1.24
+sentence-transformers>=2.2      # local embeddings + cross-encoder reranker
+rank-bm25>=0.2                  # keyword scores for hybrid retrieval
+openai>=1.0                     # OpenRouter is OpenAI-compatible (LLM + judge)
+python-dotenv>=1.0             # load OPENROUTER_API_KEY from .env
+
+# Optional (nice-to-have experiments)
+# tiktoken>=0.5                # token-based chunk sizing
+# faiss-cpu>=1.7               # faster vector search (upgrade over numpy)
+# chromadb>=0.4               # persistent vector store (upgrade)

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "app-accounts-and-data",
+    "title": "Accounts, Privacy & Your Data",
+    "category": "app",
+    "path": "app/accounts-and-data.md",
+    "word_count": 523,
+    "section_headings": [
+      "There is no account",
+      "Where your data lives",
+      "Nothing is sent anywhere",
+      "Moving to a new phone: backup and restore",
+      "Erasing everything",
+      "What GymStart collects about you"
+    ]
+  },
+  {
+    "id": "app-aches-and-safety-features",
+    "title": "Aches and In-App Safety Features",
+    "category": "app",
+    "path": "app/aches-and-safety-features.md",
+    "word_count": 411,
+    "section_headings": [
+      "Flagging aches",
+      "What flagging an ache does",
+      "The warm-up prompt",
+      "The \"go lighter\" suggestion",
+      "Every machine has safety guidance",
+      "Important limits"
+    ]
+  },
+  {
+    "id": "app-available-machines-and-gym-setup",
+    "title": "Your Available Machines and Gym Setup",
+    "category": "app",
+    "path": "app/available-machines-and-gym-setup.md",
+    "word_count": 364,
+    "section_headings": [
+      "Gym type vs. available pool",
+      "Setting it at onboarding",
+      "Editing it later",
+      "How the pool affects sessions",
+      "A machine isn't showing up"
+    ]
+  },
+  {
+    "id": "app-custom-machines-and-photos",
+    "title": "Adding Your Own Machines and Photos",
+    "category": "app",
+    "path": "app/custom-machines-and-photos.md",
+    "word_count": 505,
+    "section_headings": [
+      "Adding a machine",
+      "What happens after you add one",
+      "Replacing or removing a photo",
+      "Removing a custom machine"
+    ]
+  },
+  {
+    "id": "app-faq-and-troubleshooting",
+    "title": "FAQ & Troubleshooting",
+    "category": "app",
+    "path": "app/faq-and-troubleshooting.md",
+    "word_count": 626,
+    "section_headings": [
+      "Accounts and data",
+      "Sessions",
+      "Weights and reps",
+      "Machines",
+      "Simulation"
+    ]
+  },
+  {
+    "id": "app-getting-started",
+    "title": "Getting Started with GymStart",
+    "category": "app",
+    "path": "app/getting-started.md",
+    "word_count": 549,
+    "section_headings": [
+      "The first thing you see",
+      "The onboarding questions",
+      "What happens when you finish",
+      "Do I need an internet connection?",
+      "Redoing onboarding"
+    ]
+  },
+  {
+    "id": "app-how-progression-works",
+    "title": "How GymStart Decides Your Weights and Reps",
+    "category": "app",
+    "path": "app/how-progression-works.md",
+    "word_count": 642,
+    "section_headings": [
+      "Weight is the thing that climbs",
+      "Your starting weight",
+      "How weight goes up",
+      "How big is one increment?",
+      "The app never lowers weight for you",
+      "Manually nudging the weight",
+      "Reps are a range, and they're yours",
+      "Anchor machines",
+      "The forecast line",
+      "Recovery weeks (deload)"
+    ]
+  },
+  {
+    "id": "app-machine-finder",
+    "title": "The Machine Finder: \"What's This Machine?\"",
+    "category": "app",
+    "path": "app/machine-finder.md",
+    "word_count": 341,
+    "section_headings": [
+      "Where to find it",
+      "How it works",
+      "Why it's a guided flow and not a camera"
+    ]
+  },
+  {
+    "id": "app-machine-library-reference",
+    "title": "Machine Library Reference",
+    "category": "app",
+    "path": "app/machine-library-reference.md",
+    "word_count": 559,
+    "section_headings": [
+      "Bundled machines",
+      "Anchor machines",
+      "Gym types",
+      "Substitution groups",
+      "What each machine shows"
+    ]
+  },
+  {
+    "id": "app-recovery-rest-and-reminders",
+    "title": "Recovery Weeks, Rest Notes, and Reminders",
+    "category": "app",
+    "path": "app/recovery-rest-and-reminders.md",
+    "word_count": 344,
+    "section_headings": [
+      "Recovery weeks (deload)",
+      "The rest note",
+      "Reminders",
+      "The philosophy"
+    ]
+  },
+  {
+    "id": "app-running-a-session-howto",
+    "title": "How to Run a Session, Step by Step",
+    "category": "app",
+    "path": "app/running-a-session-howto.md",
+    "word_count": 517,
+    "section_headings": [
+      "Steps",
+      "What \"How did that feel?\" does",
+      "Ending a session early",
+      "What gets saved"
+    ]
+  },
+  {
+    "id": "app-settings-reference",
+    "title": "Settings Reference",
+    "category": "app",
+    "path": "app/settings-reference.md",
+    "word_count": 497,
+    "section_headings": [
+      "Your profile at a glance",
+      "Adjustable settings",
+      "Backup",
+      "Simulation controls",
+      "Start over",
+      "Bounds worth knowing"
+    ]
+  },
+  {
+    "id": "app-simulation-mode",
+    "title": "Simulation Mode",
+    "category": "app",
+    "path": "app/simulation-mode.md",
+    "word_count": 258,
+    "section_headings": [
+      "What it changes",
+      "What it does and doesn't affect",
+      "Cleaning up",
+      "When to use it"
+    ]
+  },
+  {
+    "id": "app-today-screen-and-building-a-session",
+    "title": "The Today Screen: Shaping and Starting a Session",
+    "category": "app",
+    "path": "app/today-screen-and-building-a-session.md",
+    "word_count": 1301,
+    "section_headings": [
+      "What you see up top",
+      "Choosing how many machines: the Suggest chips",
+      "The machine list is the editor",
+      "How the app picks machines for you",
+      "Hand-picking exactly what you want",
+      "Regenerating",
+      "Starting",
+      "Your edits stick until the session is spent",
+      "The forecast line under each machine",
+      "What the group chips (A / B) mean",
+      "Adding a brand-new machine mid-flow",
+      "Empty session",
+      "Banners you might see",
+      "Quick recap"
+    ]
+  },
+  {
+    "id": "app-your-month-and-progress",
+    "title": "Your Month, Calendar, and Progress",
+    "category": "app",
+    "path": "app/your-month-and-progress.md",
+    "word_count": 498,
+    "section_headings": [
+      "The two tabs",
+      "The \"Your month\" dashboard",
+      "How the calendar figures out your rhythm",
+      "The \"Your progress\" screen",
+      "The tone"
+    ]
+  },
+  {
+    "id": "fitness-beginner-mistakes",
+    "title": "Common Beginner Mistakes (and How to Avoid Them)",
+    "category": "fitness",
+    "path": "fitness/beginner-mistakes.md",
+    "word_count": 483,
+    "section_headings": [
+      "1. Doing too much, too soon",
+      "2. Adding weight before earning it",
+      "3. Sacrificing form for numbers",
+      "4. Skipping the warm-up",
+      "5. Neglecting recovery and sleep",
+      "6. Program-hopping",
+      "7. Under-eating protein",
+      "8. Ignoring the lower body or pulling muscles",
+      "9. Comparing yourself to others",
+      "10. Expecting fast results",
+      "The theme"
+    ]
+  },
+  {
+    "id": "fitness-exercise-form-cues",
+    "title": "Common Exercise Form Cues (Q&A)",
+    "category": "fitness",
+    "path": "fitness/exercise-form-cues.md",
+    "word_count": 607,
+    "section_headings": []
+  },
+  {
+    "id": "fitness-gym-beginner-getting-started",
+    "title": "Getting Started at the Gym: A Beginner's Q&A",
+    "category": "fitness",
+    "path": "fitness/gym-beginner-getting-started.md",
+    "word_count": 517,
+    "section_headings": []
+  },
+  {
+    "id": "fitness-how-often-to-train",
+    "title": "How Often Should You Train? (Q&A)",
+    "category": "fitness",
+    "path": "fitness/how-often-to-train.md",
+    "word_count": 448,
+    "section_headings": []
+  },
+  {
+    "id": "fitness-hydration",
+    "title": "Hydration for Training",
+    "category": "fitness",
+    "path": "fitness/hydration.md",
+    "word_count": 381,
+    "section_headings": [
+      "Why it matters",
+      "How much do you need?",
+      "Around your workout",
+      "Do you need sports drinks or electrolytes?",
+      "Can you drink too much?",
+      "The takeaway"
+    ]
+  },
+  {
+    "id": "fitness-muscle-groups-explained",
+    "title": "The Major Muscle Groups, Explained Simply",
+    "category": "fitness",
+    "path": "fitness/muscle-groups-explained.md",
+    "word_count": 482,
+    "section_headings": [
+      "Why bother knowing this",
+      "The big regions",
+      "Legs",
+      "Chest",
+      "Back",
+      "Shoulders",
+      "Arms",
+      "Core",
+      "Push vs. pull",
+      "Building a balanced week"
+    ]
+  },
+  {
+    "id": "fitness-nutrition-and-macros",
+    "title": "Nutrition and Macronutrients: A General Guide",
+    "category": "fitness",
+    "path": "fitness/nutrition-and-macros.md",
+    "word_count": 1217,
+    "section_headings": [
+      "The three macronutrients",
+      "What each macro does",
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Calorie balance sets the direction",
+      "A rough starting split",
+      "Micronutrients and fiber still matter",
+      "Timing is secondary",
+      "Estimating your calorie needs",
+      "Adjusting for your goal",
+      "Reading a food label",
+      "Do you have to count macros?",
+      "Common pitfalls",
+      "Hydration counts too",
+      "The bottom line"
+    ]
+  },
+  {
+    "id": "fitness-progressive-overload",
+    "title": "Progressive Overload: Why Your Training Has to Get Harder",
+    "category": "fitness",
+    "path": "fitness/progressive-overload.md",
+    "word_count": 497,
+    "section_headings": [
+      "The core idea",
+      "Ways to add overload",
+      "How fast to progress",
+      "The two-steps-forward reality",
+      "Deloads are part of overload",
+      "Don't let form be the thing that \"progresses\"",
+      "The takeaway"
+    ]
+  },
+  {
+    "id": "fitness-protein-needs",
+    "title": "How Much Protein Do You Need?",
+    "category": "fitness",
+    "path": "fitness/protein-needs.md",
+    "word_count": 450,
+    "section_headings": [
+      "The short answer",
+      "Putting a number on it",
+      "Why protein matters for training",
+      "Quality and sources",
+      "Spreading it out",
+      "Do you need supplements?",
+      "A caution"
+    ]
+  },
+  {
+    "id": "fitness-recovery-and-sleep",
+    "title": "Recovery and Sleep",
+    "category": "fitness",
+    "path": "fitness/recovery-and-sleep.md",
+    "word_count": 435,
+    "section_headings": [
+      "Training breaks you down; recovery builds you up",
+      "Sleep is the foundation",
+      "Rest days and muscle groups",
+      "Soreness (DOMS)",
+      "Signs you may need more recovery",
+      "Food and hydration are recovery too",
+      "The takeaway"
+    ]
+  },
+  {
+    "id": "fitness-rep-ranges-and-goals",
+    "title": "Rep Ranges and Training Goals (Reference)",
+    "category": "fitness",
+    "path": "fitness/rep-ranges-and-goals.md",
+    "word_count": 435,
+    "section_headings": [
+      "The rep-range spectrum",
+      "Where beginners should live",
+      "How goals shift the ranges",
+      "Reps as a range, not a fixed number",
+      "How hard should each set be?",
+      "The takeaway"
+    ]
+  },
+  {
+    "id": "fitness-strength-training-for-older-beginners",
+    "title": "Strength Training for Older and Returning Beginners",
+    "category": "fitness",
+    "path": "fitness/strength-training-for-older-beginners.md",
+    "word_count": 425,
+    "section_headings": [
+      "It's never too late",
+      "Why it matters more with age",
+      "Sensible adjustments for older beginners",
+      "Watch for pain vs. effort",
+      "The mindset"
+    ]
+  },
+  {
+    "id": "fitness-strength-vs-cardio",
+    "title": "Strength Training vs. Cardio: Do You Need Both?",
+    "category": "fitness",
+    "path": "fitness/strength-vs-cardio.md",
+    "word_count": 456,
+    "section_headings": [
+      "They do different jobs",
+      "What the general guidelines suggest",
+      "Matching it to your goal",
+      "Can you do them together?",
+      "The \"interference\" question",
+      "Bottom line"
+    ]
+  },
+  {
+    "id": "fitness-warm-up-and-mobility",
+    "title": "Warming Up and Mobility",
+    "category": "fitness",
+    "path": "fitness/warm-up-and-mobility.md",
+    "word_count": 430,
+    "section_headings": [
+      "Why warm up",
+      "A simple warm-up routine",
+      "Static stretching: when?",
+      "Mobility vs. flexibility",
+      "A few gentle mobility moves",
+      "The takeaway"
+    ]
+  },
+  {
+    "id": "fitness-workout-programming-basics",
+    "title": "Workout Programming Basics",
+    "category": "fitness",
+    "path": "fitness/workout-programming-basics.md",
+    "word_count": 596,
+    "section_headings": [
+      "What \"programming\" means",
+      "Sets, reps, and load",
+      "How many sets and how often",
+      "Choosing exercises",
+      "Full-body vs. split routines",
+      "Warm-up, work, cool-down",
+      "Rest between sets",
+      "Progression is the engine",
+      "Deloads and recovery",
+      "Keep it sustainable"
+    ]
+  }
+]
